@@ -1,0 +1,27 @@
+header{
+    /* align-items: center; */
+    text-align: center;
+    /* justify-content: center; */
+    background-color: skyblue;
+    font-size: 25px;
+}
+.navbar{
+    text-align: center;
+    background-color: yellow;
+}
+nav a{
+    padding: 0 15px;
+    justify-content: center;
+    
+}
+body{
+    background-color: white;
+    color: black;
+}
+.dark{
+   background-color: black;
+color: white;
+}
+.container{
+    text-align: center;
+}
